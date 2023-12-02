@@ -1,0 +1,9 @@
+﻿  АСД2_Лаб4.cpp
+E:\source\repos\АСД2_Лаб4\АСД2_Лаб4\АСД2_Лаб4.cpp(295,36): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+E:\source\repos\АСД2_Лаб4\АСД2_Лаб4\АСД2_Лаб4.cpp(302,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\source\repos\АСД2_Лаб4\АСД2_Лаб4\АСД2_Лаб4.cpp(338,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\source\repos\АСД2_Лаб4\АСД2_Лаб4\АСД2_Лаб4.cpp(363,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\source\repos\АСД2_Лаб4\АСД2_Лаб4\АСД2_Лаб4.cpp(368,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\source\repos\АСД2_Лаб4\АСД2_Лаб4\АСД2_Лаб4.cpp(394,40): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+E:\source\repos\АСД2_Лаб4\АСД2_Лаб4\АСД2_Лаб4.cpp(145): warning C4715: 'BinarySearchTree::findIn': not all control paths return a value
+  АСД2_Лаб4.vcxproj -> E:\source\repos\АСД2_Лаб4\x64\Debug\АСД2_Лаб4.exe
