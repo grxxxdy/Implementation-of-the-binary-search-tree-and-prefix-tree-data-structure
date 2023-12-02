@@ -1,7 +1,7 @@
 # Implementation-of-the-binary-search-tree-and-prefix-tree-data-structure
 1 year of computer science. Algorithms and data structures, Lab 8
 
-# Task:
+# Task (translated using ChatGPT):
 
 1. Create a Data structure to store objects with characteristics according to the chosen task, choose criteria for comparing two objects, and overload necessary operators.  
 
